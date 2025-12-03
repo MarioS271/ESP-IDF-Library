@@ -8,3 +8,6 @@ This repository contains all my custom ESP-IDF libraries I've written so far.
 
 ### Folder Structure:
 * `general` - Contains general-purpose libraries useful for nearly all projects
+
+<br><hr>
+Licensed under the [MarioS271 Open License](https://license.marios271.net/open)
